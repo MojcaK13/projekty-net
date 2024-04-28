@@ -1,0 +1,14 @@
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\bin\Debug\net8.0\SnookerCalc.exe
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\bin\Debug\net8.0\SnookerCalc.deps.json
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\bin\Debug\net8.0\SnookerCalc.runtimeconfig.json
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\bin\Debug\net8.0\SnookerCalc.dll
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\bin\Debug\net8.0\SnookerCalc.pdb
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\obj\Debug\net8.0\SnookerCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\obj\Debug\net8.0\SnookerCalc.AssemblyInfoInputs.cache
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\obj\Debug\net8.0\SnookerCalc.AssemblyInfo.cs
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\obj\Debug\net8.0\SnookerCalc.csproj.CoreCompileInputs.cache
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\obj\Debug\net8.0\SnookerCalc.dll
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\obj\Debug\net8.0\refint\SnookerCalc.dll
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\obj\Debug\net8.0\SnookerCalc.pdb
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\obj\Debug\net8.0\SnookerCalc.genruntimeconfig.cache
+C:\Users\mojca\Desktop\projekty-net\SnookerCalc\obj\Debug\net8.0\ref\SnookerCalc.dll

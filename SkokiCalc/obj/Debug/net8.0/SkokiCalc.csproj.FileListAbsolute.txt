@@ -1,0 +1,15 @@
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\bin\Debug\net8.0\SkokiCalc.exe
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\bin\Debug\net8.0\SkokiCalc.deps.json
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\bin\Debug\net8.0\SkokiCalc.runtimeconfig.json
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\bin\Debug\net8.0\SkokiCalc.dll
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\bin\Debug\net8.0\SkokiCalc.pdb
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\SkokiCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\SkokiCalc.AssemblyInfoInputs.cache
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\SkokiCalc.AssemblyInfo.cs
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\SkokiCalc.csproj.CoreCompileInputs.cache
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\SkokiCalc.sourcelink.json
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\SkokiCalc.dll
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\refint\SkokiCalc.dll
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\SkokiCalc.pdb
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\SkokiCalc.genruntimeconfig.cache
+C:\Users\mojca\Desktop\projekty-net\SkokiCalc\obj\Debug\net8.0\ref\SkokiCalc.dll

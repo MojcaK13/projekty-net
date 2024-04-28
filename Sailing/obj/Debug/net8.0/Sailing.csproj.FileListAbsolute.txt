@@ -1,0 +1,15 @@
+C:\Users\mojca\Desktop\projekty-net\Sailing\bin\Debug\net8.0\Sailing.exe
+C:\Users\mojca\Desktop\projekty-net\Sailing\bin\Debug\net8.0\Sailing.deps.json
+C:\Users\mojca\Desktop\projekty-net\Sailing\bin\Debug\net8.0\Sailing.runtimeconfig.json
+C:\Users\mojca\Desktop\projekty-net\Sailing\bin\Debug\net8.0\Sailing.dll
+C:\Users\mojca\Desktop\projekty-net\Sailing\bin\Debug\net8.0\Sailing.pdb
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\Sailing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\Sailing.AssemblyInfoInputs.cache
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\Sailing.AssemblyInfo.cs
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\Sailing.csproj.CoreCompileInputs.cache
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\Sailing.sourcelink.json
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\Sailing.dll
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\refint\Sailing.dll
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\Sailing.pdb
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\Sailing.genruntimeconfig.cache
+C:\Users\mojca\Desktop\projekty-net\Sailing\obj\Debug\net8.0\ref\Sailing.dll
