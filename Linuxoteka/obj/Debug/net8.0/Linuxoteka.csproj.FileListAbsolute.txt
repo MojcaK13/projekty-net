@@ -1,0 +1,15 @@
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\bin\Debug\net8.0\Linuxoteka.exe
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\bin\Debug\net8.0\Linuxoteka.deps.json
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\bin\Debug\net8.0\Linuxoteka.runtimeconfig.json
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\bin\Debug\net8.0\Linuxoteka.dll
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\bin\Debug\net8.0\Linuxoteka.pdb
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\Linuxoteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\Linuxoteka.AssemblyInfoInputs.cache
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\Linuxoteka.AssemblyInfo.cs
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\Linuxoteka.csproj.CoreCompileInputs.cache
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\Linuxoteka.sourcelink.json
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\Linuxoteka.dll
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\refint\Linuxoteka.dll
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\Linuxoteka.pdb
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\Linuxoteka.genruntimeconfig.cache
+C:\Users\mojca\Desktop\projekty-net\Linuxoteka\obj\Debug\net8.0\ref\Linuxoteka.dll
